@@ -398,9 +398,6 @@ body.menu-expanded button path {
   margin-bottom: 6rem;
 }
 
-#about img {
-  width: 50rem;
-}
 
 /*=== CONTACT =================================*/
 #contact {
@@ -712,6 +709,10 @@ footer .social-links {
 
   #about .content p {
     margin-bottom: 0;
+  }
+
+  #about img {
+    width: 50rem;
   }
 
   /*=== CONTACT =================================*/
